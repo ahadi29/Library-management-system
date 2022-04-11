@@ -2,7 +2,6 @@ create database lib;
 
 use lib;
 
-
 create table info
 (
 namee varchar(25),
